@@ -1,11 +1,9 @@
 # 💫About Me :
-                                                  Xin chào👋, Tôi là Phạm Gia Bảo
+                                         Hi 👋, I'm Phạm Gia Bảo
+A student at the faculty of Information Technology
+.🏫 I’m currently a student at Ho Chi Minh city University of Food Industry
 
-Sinh viên khoa công nghệ thông tin
-
-.🏫Tôi hiện đang là sinh viên trường Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh
-
-.🧑🏻‍💻 Các lĩnh vực chuyên ngành Hệ thống thông tin
+.🧑🏻‍💻 Specialized fields Information Systems
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015057640311) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCAZodQEi1Jlf-bfnBdsxieQ) 
