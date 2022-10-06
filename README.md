@@ -1,5 +1,5 @@
 # 💫About Me :
-                                                                         Xin chào👋, Tôi là Phạm Gia Bảo
+                                                  Xin chào👋, Tôi là Phạm Gia Bảo
 
 Sinh viên khoa công nghệ thông tin
 
