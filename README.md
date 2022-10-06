@@ -1,6 +1,8 @@
 # 💫About Me :
 Xin chào👋, Tôi là Phạm Gia Bảo
+
 Sinh viên khoa công nghệ thông tin
+
 🏫Tôi hiện đang là sinh viên trường Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh
 
 🧑🏻‍💻 Các lĩnh vực chuyên ngành Hệ thống thông tin
