@@ -1,5 +1,5 @@
 # 💫About Me :
-                                         Hi 👋, I'm Phạm Gia Bảo
+                                                    Hi 👋, I'm Phạm Gia Bảo
 A student at the faculty of Information Technology
 .🏫 I’m currently a student at Ho Chi Minh city University of Food Industry
 
