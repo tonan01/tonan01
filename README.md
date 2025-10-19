@@ -2,7 +2,7 @@
                                                     Hi 👋, I'm Phạm Gia Bảo
 A student at the faculty of Information Technology
 
-.🏫 I’m currently a student at Ho Chi Minh city University of Food Industry
+.🏫 I’m currently a student at Ho Chi Minh City University of Industry and Trade - HUIT
 
 .🧑🏻‍💻 Specialized fields Information Systems
 
